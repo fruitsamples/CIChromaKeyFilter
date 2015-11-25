@@ -1,0 +1,5 @@
+Copyright © 2009 by Apple, Inc.  All Rights Reserved.
+
+ChromaKey CIFilter
+
+The ChromaKey QuartzComposer composition demonstrates a custom CIKernel developed in QuartzComposer for rapid prototyping. The filter does a chroma key or "green screen" effect to composite one image on top of the other while masking out a chroma background
